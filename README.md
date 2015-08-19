@@ -5,7 +5,7 @@ russian-it-podcasts
 ![podcasts](podcasts.png)
 
 ### Содержание:
-|| [DevZen](#devzen)
+   [DevZen](#devzen)
 || [Радио-Т](#Радио-Т)
 || [RadioJS](#radiojs)
 || [RubyNoName](#rubynoname)
@@ -19,7 +19,10 @@ russian-it-podcasts
 || [Radio QA](#radio-qa)
 || [Радиома](#Радиома)
 || [Solo on .NET](#solo-on-net)
-|| [CTOcast](#ctocast) ||
+|| [CTOcast](#ctocast)
+|| [Пятиминутка PHP](#Пятиминутка-php)
+|| [GolangShow](#golangshow)
+|| [SDCast](#sdcast)
 
 ----------------------------------------
 
@@ -261,5 +264,31 @@ JavaScript, 0% воды
 Ведущие:
 - Александр Астапенко
 - Павел Павлов
+
+----------------------------------------
+
+## Пятиминутка PHP
+#### [site](http://5minphp.ru/), [rss](http://feeds.soundcloud.com/users/soundcloud:users:153519653/sounds.rss), [itunes](https://itunes.apple.com/ru/podcast/patiminutka-php/id996423650), [twitter](https://twitter.com/5minphp)
+
+Еженедельный подкаст о новостях из мира PHP, интересных постах в блогах и современных подходах к разработке.
+
+----------------------------------------
+
+## GolangShow
+#### [site](http://golangshow.com/)
+
+Подкаст о Go
+
+----------------------------------------
+
+## SDCast
+#### [site](http://sdcast.ksdaemon.ru/), [itunes](https://itunes.apple.com/ru/podcast/software-development-podcast/id890468606)
+
+Подкаст о разработке ПО и его окрестностях. Интервью с разработчиками и активными участниками разных сообществ, разговоры о программировании, архитектуре, open source и смежных темах.
+
+Ведущие:
+- Константин Буркалев 
+    [github](https://github.com/KSDaemon)
+    [twitter](https://twitter.com/KSDaemon)
 
 ----------------------------------------
