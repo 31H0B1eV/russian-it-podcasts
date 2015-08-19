@@ -26,6 +26,7 @@ russian-it-podcasts
 || [DevOps Дефлопе](#devops-Дефлопе)
 || [Рунет сегодня](#Рунет-сегодня)
 || [Рунетология](#Рунетология)
+|| [Витая пара](#Витая-пара)
 
 ----------------------------------------
 
@@ -328,5 +329,23 @@ JavaScript, 0% воды
 Ведущие:
 - Максим Спиридонов
     [site](http://spiridonov.ru)
+
+----------------------------------------
+
+## Витая пара
+#### [site](http://www.tpair.org/), [rss](http://feeds.feedburner.com/tpair/oiQT), [itunes](http://itunes.apple.com/us/podcast/podkast-vitaa-para/id523996227), [vk](http://vk.com/tpair), [g+](https://plus.google.com/+TpairOrg/videos), [twitter](https://twitter.com/tpair_podcast)
+
+Изначально подкаст задумывался именно как новостной, но постепенно сложилось так, что мы просто обсуждаем/стебёмся над происходящим в IT-мире.
+
+Ведущие:
+- Александр Обливальный
+    [twitter](http://twitter.com/PingWin87)
+    [vk](http://vk.com/pingwin87)
+- Юля
+    [twitter](http://twitter.com/JIUCEH0K)
+- Илья Ильин
+    [vk](http://vk.com/digitalmonstro)
+- Владимир Орлов
+    [vk](http://vk.com/seraish)
 
 ----------------------------------------
