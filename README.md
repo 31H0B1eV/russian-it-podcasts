@@ -23,6 +23,7 @@ russian-it-podcasts
 || [Пятиминутка PHP](#Пятиминутка-php)
 || [GolangShow](#golangshow)
 || [SDCast](#sdcast)
+|| [DevOps Дефлопе](#devops-Дефлопе)
 
 ----------------------------------------
 
@@ -290,5 +291,18 @@ JavaScript, 0% воды
 - Константин Буркалев 
     [github](https://github.com/KSDaemon)
     [twitter](https://twitter.com/KSDaemon)
+
+----------------------------------------
+
+## DevOps Дефлопе
+#### [site](http://devopsdeflope.ru/), [rss](http://feeds.feedburner.com/devopsdeflope), [twitter](https://twitter.com/devopsdeflope), [itunes](https://itunes.apple.com/ru/podcast/devops-deflope-podkast/id670175970), [github](https://github.com/devopsdeflope-podcast/deflope)
+
+Подкаст о DevOps практиках.
+
+Ведущие:
+- Никита Борзых
+    [twitter](https://twitter.com/ex_sample)
+- Иван Евтухович
+    [site](http://evtuhovich.ru/about)
 
 ----------------------------------------
