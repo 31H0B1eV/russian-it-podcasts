@@ -5,7 +5,7 @@ russian-it-podcasts
 ![podcasts](podcasts.png)
 
 ### Содержание:
-   [DevZen](#devzen)
+|| [DevZen](#devzen)
 || [Радио-Т](#Радио-Т)
 || [RadioJS](#radiojs)
 || [RubyNoName](#rubynoname)
@@ -27,6 +27,8 @@ russian-it-podcasts
 || [Рунет сегодня](#Рунет-сегодня)
 || [Рунетология](#Рунетология)
 || [Витая пара](#Витая-пара)
+|| [AppleInsider.ru](#appleinsiderru)
+||
 
 ----------------------------------------
 
@@ -388,5 +390,18 @@ _Ведущие:_
     [vk](http://vk.com/digitalmonstro)
 - Владимир Орлов
     [vk](http://vk.com/seraish)
+
+----------------------------------------
+
+## AppleInsider.ru
+|| [site](http://appleinsider.ru/ipodcast)
+|| [rss](http://appleinsider.ru/feed)
+|| [vk](http://vk.com/appleinsider)
+|| [fb](http://www.facebook.com/appleinsider.ru)
+|| [twitter](http://twitter.com/appleinsider_ru)
+|| [youtube](http://www.youtube.com/user/AppleInsiderRU)
+|| [g+](https://plus.google.com/u/0/100653264807086967884/posts)
+
+AppleInsider.ru – Блог об Apple, iPhone, iPad, iPod, iMac, MacBook
 
 ----------------------------------------
