@@ -20,7 +20,7 @@ Radio QA | [site](http://radio-qa.com/) [rss](http://radio-qa.com/feed) [itunes]
 Solo on .NET | [podfm](https://spbaltnet.podfm.ru/solo/) [itunes](https://itunes.apple.com/de/podcast/solo-on-.net/id730081104?mt=2) | Разработка ПО
 CTOcast | [site](http://ctocast.com/) [itunes](https://itunes.apple.com/ru/podcast/ctocast/id945496997) [rss](http://feeds.feedburner.com/CTOcast) | Технологии, процессы, инфраструктура и люди в IT-компаниях
 Пятиминутка PHP | [site](http://5minphp.ru/) [rss](http://feeds.soundcloud.com/users/soundcloud:users:153519653/sounds.rss) [itunes](https://itunes.apple.com/ru/podcast/patiminutka-php/id996423650) | PHP, веб-разработка
-GolangShow | [site](http://golangshow.com/) [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295) | Go
+GolangShow | [site](http://golangshow.com/) [rss](http://golangshow.com/index.xml) [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295) | о Go
 SDCast | [site](http://sdcast.ksdaemon.ru/) [rss](http://sdcast.ksdaemon.ru/feed/podcast/) [itunes](https://itunes.apple.com/ru/podcast/software-development-podcast/id890468606) | Разработка ПО, интервью
 DevOps Дефлопе | [site](http://devopsdeflope.ru/) [rss](http://feeds.feedburner.com/devopsdeflope) [itunes](https://itunes.apple.com/ru/podcast/devops-deflope-podkast/id670175970) | DevOps практики
 Рунет сегодня | [site](http://runet-segodnya.podfm.ru/) [rss](http://runet-segodnya.podfm.ru/rss/rss.xml) | События в Рунете
